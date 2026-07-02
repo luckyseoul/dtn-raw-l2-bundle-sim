@@ -1,1 +1,1 @@
-... (see local)
+$(cat /home/nick/dtn-raw-l2-bundle-sim/README.md)
